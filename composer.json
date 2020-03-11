@@ -1,11 +1,13 @@
 {
     "name": "larux/etalon",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "type": "project",
     "description": "The Larux tamplate for sites with API",
     "keywords": [
-        "api",
-        "larux"
+        "API",
+        "larux",
+        "template",
+        "laravel"
     ],
     "authors": [
         {
