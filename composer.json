@@ -1,6 +1,6 @@
 {
     "name": "larux/etalon",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "type": "project",
     "description": "The Larux tamplate for sites with API",
     "keywords": [
